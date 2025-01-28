@@ -2,7 +2,7 @@
 
 ![Indus Valley Civilization](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJFZXePBN4Wrwz4_4MgwaGcA2fHfPijg7A8A&s)
 ![](https://www.shutterstock.com/shutterstock/videos/1099462587/thumb/1.jpg?ip=x480)
-
+<img src="[path_to_your_image.jpg](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJFZXePBN4Wrwz4_4MgwaGcA2fHfPijg7A8A&s)" alt="Indus Valley Script" width="80%" height="auto" align="centre">
 ---
 
 ## Overview
