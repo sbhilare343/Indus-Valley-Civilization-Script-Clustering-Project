@@ -1,6 +1,6 @@
 # Ancient Indus Valley Script Clustering
 
-![Indus Valley Civilization](https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Mohenjo-daro_views.jpg/800px-Mohenjo-daro_views.jpg)
+![Indus Valley Civilization](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJFZXePBN4Wrwz4_4MgwaGcA2fHfPijg7A8A&s)
 
 ---
 
