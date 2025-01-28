@@ -1,6 +1,7 @@
 # Ancient Indus Valley Script Clustering
 
 ![Indus Valley Civilization](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJFZXePBN4Wrwz4_4MgwaGcA2fHfPijg7A8A&s)
+![](https://www.shutterstock.com/shutterstock/videos/1099462587/thumb/1.jpg?ip=x480)
 
 ---
 
